@@ -7691,7 +7691,7 @@ button[type="submit"], button#downloadPdf {
     border-radius: 4px;
 }
 button[type="submit"]:hover, button#downloadPdf:hover {
-    background-color: rgb(0, 86, 179);
+    background-color: rgb(105, 105, 105);
 }
 * {
     box-sizing: border-box;
